@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "routesbridge",
+	"version": "${version}",
+	"name": "RoutesBridge",
+	"description": "A mod to make the Routes Mod (FlameOfWar) compatible with newer minecraft versions ",
+	"authors": [
+		"Rulol4"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"me.Rulol4.RoutesBridge.RoutesBridgeClient"
+		]
+	},
+	"mixins": [
+		"routesbridge.client.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.10",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

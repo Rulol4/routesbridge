@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "me.Rulol4.RoutesBridge.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"ScoreboardMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
