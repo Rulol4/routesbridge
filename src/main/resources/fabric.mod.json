@@ -12,7 +12,7 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "GPL v3.0",
-	"icon": "icon.png",
+	"icon": "assets/routesbridge/icon.png",
 	"environment": "client",
 	"entrypoints": {
 		"client": [
