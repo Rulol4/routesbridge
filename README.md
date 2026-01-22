@@ -1,3 +1,4 @@
+<!--suppress HtmlDeprecatedAttribute -->
 <h1 align="center">
   Routes Bridge: Mod for Hypixel SkyBlock
 </h1>
@@ -9,7 +10,7 @@
 </div>
 
 ## What it does
-Routes Bridge is a Fabric 1.21.10 mod for Hypixel SkyBlock that provides dungeon information to the [RoutesMod](https://github.com/imnothaxing/RoutesMod) on the latest version.
+Routes Bridge is a Fabric 1.21.10 and 1.21.11 mod for Hypixel SkyBlock that provides dungeon information to the [RoutesMod](https://github.com/imnothaxing/RoutesMod) on the latest version.
 
 ## Setup
 To install the mod, simply add it to your mods folder inside your `.minecraft` directory.
