@@ -20,8 +20,6 @@ You also need the latest version of the [RoutesMod](https://github.com/imnothaxi
 
 **IMPORTANT:** You do not need to install [ChatTriggers](https://chattriggers.com/), despite it being described in the RoutesMod installation guide. This mod replaces what ChatTriggers used to do on 1.8.
 
-This mod is incompatible with Aaron’s Mod.
-
 ## How to use
 Simply run `/route` when you want to see a video for your current room. You do not need to open anything in advance.
 
